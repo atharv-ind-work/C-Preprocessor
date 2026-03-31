@@ -1,5 +1,4 @@
-# C-Preprocessor
-# C Preprocessor (Mini Project)
+# C Preprocessor
 
 This project is a simple implementation of how a **C preprocessor works internally**.
 It takes a `.c` file as input and generates a processed `.i` file after handling things like macros, comments, and header files.
