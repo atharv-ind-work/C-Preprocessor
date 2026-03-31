@@ -1,4 +1,4 @@
-# C-_Preprocessor
+# C-Preprocessor
 # C Preprocessor (Mini Project)
 
 This project is a simple implementation of how a **C preprocessor works internally**.
